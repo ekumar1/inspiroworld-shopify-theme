@@ -1,3 +1,5 @@
-.product-single__info-wrapper {
+.product-single__title {
 background-color: red; padding: 20px;
 }
+
+.product-single__price { font-size: 24px !important; color: rgb(45, 29, 103); margin-top: 10px; }
